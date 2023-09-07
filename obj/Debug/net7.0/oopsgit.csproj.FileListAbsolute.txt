@@ -1,0 +1,15 @@
+D:\oopsgit\obj\Debug\net7.0\oopsgit.csproj.AssemblyReference.cache
+D:\oopsgit\obj\Debug\net7.0\oopsgit.GeneratedMSBuildEditorConfig.editorconfig
+D:\oopsgit\obj\Debug\net7.0\oopsgit.AssemblyInfoInputs.cache
+D:\oopsgit\obj\Debug\net7.0\oopsgit.AssemblyInfo.cs
+D:\oopsgit\obj\Debug\net7.0\oopsgit.csproj.CoreCompileInputs.cache
+D:\oopsgit\bin\Debug\net7.0\oopsgit.exe
+D:\oopsgit\bin\Debug\net7.0\oopsgit.deps.json
+D:\oopsgit\bin\Debug\net7.0\oopsgit.runtimeconfig.json
+D:\oopsgit\bin\Debug\net7.0\oopsgit.dll
+D:\oopsgit\bin\Debug\net7.0\oopsgit.pdb
+D:\oopsgit\obj\Debug\net7.0\oopsgit.dll
+D:\oopsgit\obj\Debug\net7.0\refint\oopsgit.dll
+D:\oopsgit\obj\Debug\net7.0\oopsgit.pdb
+D:\oopsgit\obj\Debug\net7.0\oopsgit.genruntimeconfig.cache
+D:\oopsgit\obj\Debug\net7.0\ref\oopsgit.dll
