@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 abstract class Hospital{
     public abstract void d();
+    public abstract void n();
     public void numofbeds(){
        Console.WriteLine("100");
   }
@@ -12,6 +13,9 @@ class Project : Hospital
         Console.WriteLine("Doctors: Nithiya");
         Console.WriteLine("second Doctor Priya");
     }
+    public override void n(){
+        Console.WriteLine("Nurses are available 24/7");
+    }
     
 }
 
@@ -22,6 +26,7 @@ class Project : Hospital
    Project Ref=new Project();
    Ref.d();
    Ref.numofbeds();
+   Ref.n();
     }
 }
 
