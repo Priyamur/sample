@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\laevi.antony\\.nuget\\packages\\": {}
+    "C:\\Users\\priyadharshini.mu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\oopsgit\\oopsgit.csproj",
+      "projectUniqueName": "D:\\git\\sample-1\\oopsgit.csproj",
       "projectName": "oopsgit",
-      "projectPath": "D:\\oopsgit\\oopsgit.csproj",
-      "packagesPath": "C:\\Users\\laevi.antony\\.nuget\\packages\\",
-      "outputPath": "D:\\oopsgit\\obj\\",
+      "projectPath": "D:\\git\\sample-1\\oopsgit.csproj",
+      "packagesPath": "C:\\Users\\priyadharshini.mu\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\sample-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\laevi.antony\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\priyadharshini.mu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
