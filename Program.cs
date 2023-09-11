@@ -14,7 +14,7 @@ class Project : Hospital
         Console.WriteLine("second Doctor Priya");
     }
     public override void n(){
-        Console.WriteLine("Nurses are available 24/7");
+        Console.WriteLine("50 nurses");
     }
     
 }
